@@ -1,3 +1,5 @@
 first git lectures for file management
 //////////////////////////////////////
 new line starts here
+===================
+checking git stash
