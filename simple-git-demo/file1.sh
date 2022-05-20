@@ -5,3 +5,11 @@ then
    echo "$a is a less number"
 else
    echo "$a is a higher number"
+
+dir="/c/Users/lbena/OneDrive/Documents/GithubDev/simple-git-demo"
+if [[ -d $dir]]
+then  
+    touch main.tf
+    echo "one file created"
+else
+   echo "file already exist"
